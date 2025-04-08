@@ -1,1 +1,4 @@
 To show all files and directory in the repo => dir /a (windows)
+
+To generate ssh key use:
+    ssh-keygen -t rsa -b 4096 -C "git hub email"
